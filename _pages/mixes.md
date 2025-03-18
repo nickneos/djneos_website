@@ -1,12 +1,9 @@
 ---
-title: DJ Mixes
+title: Mixes by DJ Neos
 permalink: /mixes/
 author_profile: true
 ---
 
-## Mixes By DJ Neos
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
 
     {%- for post in site.posts -%}
