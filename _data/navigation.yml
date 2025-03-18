@@ -9,5 +9,5 @@ main:
     url: /mixes/
   - title: "Photos"
     url: /photos/
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/

@@ -1,7 +1,7 @@
 ---
 title: Mixes by DJ Neos
 permalink: /mixes/
-author_profile: true
+read_time: false
 ---
 
 <div class="entries-{{ entries_layout }}">
