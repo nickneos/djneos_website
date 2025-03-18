@@ -1,11 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Photos"
-    url: /photos/
   - title: "Contact"
     url: /contact/
+  - title: Mixes
+    url: /mixes/
+  - title: "Photos"
+    url: /photos/
+  - title: "Posts"
+    url: /posts/
