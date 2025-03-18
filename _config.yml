@@ -42,14 +42,14 @@ email: nicholas.neos@gmail.com
 # Site Author
 author:
   name             : "DJ Neos"
-  avatar           : /assets/images/bio-photo.jpg"
-  bio              : Melbourne's DJ Neos is ready to bring the party to your next event!
+  avatar           : "/assets/images/bio-photo.jpg"
+  # bio              : Melbourne's DJ Neos is ready to bring the party to your next event!
   location         : Melbourne, AU
   email            : nicholas.neos@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nicholas.neos@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:nicholas.neos@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/n3os/"
