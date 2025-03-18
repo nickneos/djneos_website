@@ -1,6 +1,5 @@
 ---
 title: "DJ Neos Mix: Funky House Grooves"
-date: 2025-02-15T15:34:30
 categories:
   - blog
 tags:
