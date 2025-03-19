@@ -3,6 +3,8 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
+  - title: Home
+    url: /
   - title: Mixes
     url: /mixes/
   - title: "Gallery"
