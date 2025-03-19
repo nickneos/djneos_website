@@ -120,7 +120,7 @@ author:
   email            :
   links:
     - label: "Mixcloud"
-      icon: "fas fa-fw fa-mixcloud"
+      icon: "fas fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
     - label: "Bookings"
       icon: "fas fa-fw fa-calendar"
@@ -166,7 +166,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Mixcloud"
-      icon: "fas fa-fw fa-mixcloud"
+      icon: "fas fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
