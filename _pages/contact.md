@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-For bookings or any other enquires, shoot through a message below:
+Get in contact with DJ Neos about your next event!
 
 <form action="https://formspree.io/f/xwplvlzl" method="POST">
     <input type="hidden" name="_subject" value="Contact request from DJ Neos website" />
