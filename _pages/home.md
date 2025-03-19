@@ -8,4 +8,4 @@ Spinning all the genres that gets you moving; house, disco, those awesome old-sc
 
 If it's got a beat, DJ Neos is playing it and getting everyone moving!
 
-{% include figure popup=true image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
+{% include video id="5yUA1EV0SS8" provider="youtube" %}
