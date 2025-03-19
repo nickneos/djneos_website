@@ -123,7 +123,7 @@ author:
       icon: "fas fa-fw fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
     - label: "Bookings"
-      icon: "fas fa-fw fa-calendar-plus-o"
+      icon: "fas fa-fw fa-calendar"
       url: "/contact/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
