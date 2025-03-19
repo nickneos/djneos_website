@@ -3,11 +3,11 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Contact"
-    url: /contact/
   - title: Mixes
     url: /mixes/
-  - title: "Photos"
+  - title: "Gallery"
     url: /photos/
-  - title: "Blog"
-    url: /posts/
+  - title: "Contact Me"
+    url: /contact/
+  # - title: "Blog"
+  #   url: /posts/
