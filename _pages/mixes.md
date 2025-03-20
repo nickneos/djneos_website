@@ -1,6 +1,6 @@
 ---
 title: Mixes by DJ Neos
-permalink: /mixes/code
+permalink: /mixes/
 classes: wide
 ---
 
