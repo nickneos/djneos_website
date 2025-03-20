@@ -7,8 +7,8 @@ main:
     url: /about/
   - title: Mixes
     url: /mixes/
-  - title: "Gallery"
-    url: /photos/
+  # - title: "Gallery"
+  #   url: /photos/
   - title: "Contact Me"
     url: /contact/
   # - title: "Blog"
