@@ -21,7 +21,7 @@ For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) as well!
 <ul>
     {% for post in site.posts %} 
         {% if post.tags contains "mix" %}
-            <li><a href="{{post.url}}">{{ post.title.replace('DJ Neos Mix: ', '') }}</li> 
+            <li><a href="{{post.url}}">{{ post.title }}</li> 
         {% endif %}
     {% endfor %}
 </ul>
