@@ -17,9 +17,9 @@ Enjoy some of my mixes below! 🤘
 
 </div>
 
-
+<p>
 👉 For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) page 👈
-
+</p>
 <!-- <ul>
     {% for post in site.posts %} 
         {% if post.tags contains "mix" %}
