@@ -4,13 +4,14 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-#   overlay_image: /assets/images/splash_img.jpg
+#   overlay_filter: "0.5"
+  overlay_image: /assets/images/splash_img.jpg
+  excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
   actions:
     - label: "Book Now"
       url: "/contact/"
 feature_row:
-  - image_path: /assets/images/feature_5.jpg
+  - image_path: /assets/images/feature_6.jpg
     alt: "about"
     # title: "About Me"
     excerpt: "Find out more about DJ Neos!"
@@ -26,7 +27,7 @@ feature_row:
   - image_path: /assets/images/feature_4.jpg
     alt: "contact"
     url: "/contact/"
-    excerpt: "Ready for me to bring the party to your next event? Contact me today!"
+    excerpt: "Ready to make your next event a hit?"
     btn_label: "Contact Me"
     btn_class: "btn--primary"
 ---
