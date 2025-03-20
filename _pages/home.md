@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Book Now"
       url: "/contact/"
-feature_row:
+feature_row_1:
   - image_path: /assets/images/feature_3.jpg
     alt: "about"
     # title: "About Me"
