@@ -3,9 +3,7 @@ title: Mixes by DJ Neos
 permalink: /mixes/
 ---
 
-Enjoy some of my mixes below!
-
-For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) as well!
+Enjoy some of my mixes below! 🤘
 
 <div class="entries-{{ entries_layout }}">
 
@@ -18,6 +16,10 @@ For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) as well!
     {%- endfor -%}
 
 </div>
+
+
+👉 For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) page 👈
+
 <!-- <ul>
     {% for post in site.posts %} 
         {% if post.tags contains "mix" %}
