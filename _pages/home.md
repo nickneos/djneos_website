@@ -5,12 +5,12 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash_img.jpg
+#   overlay_image: /assets/images/splash_img.jpg
   actions:
     - label: "Book Now"
       url: "/contact/"
 feature_row:
-  - image_path: /assets/images/feature_3.jpg
+  - image_path: /assets/images/feature_5.jpg
     alt: "about"
     # title: "About Me"
     excerpt: "Find out more about DJ Neos!"
@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/feature_4.jpg
     alt: "contact"
     url: "/contact/"
-    excerpt: "Ready for me to bring the party to your next event? Get in touch here for any enquries or bookings!"
+    excerpt: "Ready for me to bring the party to your next event? Contact me today!"
     btn_label: "Contact Me"
     btn_class: "btn--primary"
 ---
