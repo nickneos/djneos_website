@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 ---
 
 Melbourne's DJ Neos is ready to bring the party to your next event!
