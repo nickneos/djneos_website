@@ -1,23 +1,25 @@
 ---
 title: Mixes by DJ Neos
-permalink: /mixes/
+permalink: /mixes/code
+classes: wide
 ---
 
 Enjoy some of my mixes below! 🤘
+
+Additional mixes can be found on my [Mixcloud](https://www.mixcloud.com/n3os/) page.
 
 <div class="entries-{{ entries_layout }}">
 
     {%- for post in site.posts -%}
         {% if post.tags contains 'mix' %}
             {%- unless post.hidden -%}
-                {% include archive-single.html type="list" %}
+                {% include archive-single.html type="grid" %}
             {%- endunless -%}
         {% endif %}
     {%- endfor -%}
 
 </div>
 
-👉 For more mixes, checkout my [Mixcloud](https://www.mixcloud.com/n3os/) page 👈
 
 <!-- <ul>
     {% for post in site.posts %} 
