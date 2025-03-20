@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Book Now"
       url: "/contact/"
-  excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
+excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
 feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
@@ -18,7 +18,7 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature_1.jpg
+  - image_path: /assets/images/feature_5.jpg
     alt: "Mixes"
     url: "/mixes/"
     excerpt: "Listen to some of my mixes!"
