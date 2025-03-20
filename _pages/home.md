@@ -6,10 +6,10 @@ header:
   overlay_color: "#000"
 #   overlay_filter: "0.5"
   overlay_image: /assets/images/splash_img.jpg
-  excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
   actions:
     - label: "Book Now"
       url: "/contact/"
+  excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
 feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
