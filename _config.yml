@@ -122,15 +122,15 @@ author:
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "https://api.whatsapp.com/send?phone=61425735686&app=facebook&entry_point=page_cta"
-    - label: "Mixcloud"
-      icon: "fas fa-fw fa-m"
-      url: "https://www.mixcloud.com/n3os/"
     - label: "Book Me"
       icon: "fas fa-fw fa-calendar"
       url: "/contact/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "/contact/"
+    - label: "Mixcloud"
+      icon: "fas fa-fw fa-m"
+      url: "https://www.mixcloud.com/n3os/"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   # url: "https://facebook.com/"
@@ -144,15 +144,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Mixcloud"
-      icon: "fas fa-fw fa-m"
-      url: "https://www.mixcloud.com/n3os/"
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "https://api.whatsapp.com/send?phone=61425735686&app=facebook&entry_point=page_cta"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "/contact/"
+    - label: "Mixcloud"
+      icon: "fas fa-fw fa-m"
+      url: "https://www.mixcloud.com/n3os/"
 
 
 # Reading Files
