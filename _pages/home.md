@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Book Now"
       url: "/contact/"
-feature_row_1:
+feature_row:
   - image_path: /assets/images/feature_3.jpg
     alt: "about"
     # title: "About Me"
@@ -21,7 +21,7 @@ feature_row_2:
   - image_path: /assets/images/feature_1.jpg
     alt: "Mixes"
     url: "/mixes/"
-    excerpt: "Listen to some of my mixes!:
+    excerpt: "Listen to some of my mixes!"
     btn_label: "My Mixes"
     btn_class: "btn--primary"
 feature_row_3:
