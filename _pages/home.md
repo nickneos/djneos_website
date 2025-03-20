@@ -16,14 +16,17 @@ feature_row:
     # excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/about/"
     btn_label: "About Me"
+    btn_class: "btn--primary"
   - image_path: /assets/images/feature_2.jpg
     alt: "Mixes"
     url: "/mixes/"
     btn_label: "My Mixes"
+    btn_class: "btn--primary"
   - image_path: /assets/images/feature_4.jpg
     alt: "contact"
     url: "/contact/"
     btn_label: "Contact Me"
+    btn_class: "btn--primary"
 ---
 
 
