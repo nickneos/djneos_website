@@ -10,7 +10,7 @@ Enjoy some of my mixes below! 🤘
     {%- for post in site.posts -%}
         {% if post.tags contains 'mix' %}
             {%- unless post.hidden -%}
-                {% include archive-single.html type="grid" %}
+                {% include archive-single.html type="list" %}
             {%- endunless -%}
         {% endif %}
     {%- endfor -%}
