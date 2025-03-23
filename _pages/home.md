@@ -14,14 +14,14 @@ feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
     # title: "About Me"
-    excerpt: "Find out more about DJ Neos!"
+    excerpt: "Find out more..."
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_5.jpg
     alt: "Mixes"
     url: "/mixes/"
-    excerpt: "Listen to some of my mixes!"
+    excerpt: "Listen to some of my mixes 🔊"
     btn_label: "My Mixes"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_4.jpg
