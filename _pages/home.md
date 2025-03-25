@@ -3,25 +3,19 @@ title: DJ Neos
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banner1.jpg
-  actions:
-    - label: "Book Now"
-      url: "/contact/"
-excerpt: Melbourne's DJ Neos is ready to bring the party to your next event!
+  image: /assets/images/dj_neos_banner_crop.jpg
 feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
     # title: "About Me"
-    excerpt: "Find out more..."
+    excerpt: "Find out more about my services"
     url: "/about/"
-    btn_label: "About Me"
+    btn_label: "About"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_5.jpg
     alt: "Mixes"
     url: "/mixes/"
-    excerpt: "Listen to some of my mixes 🔊"
+    excerpt: "Rock out to some of my mixes"
     btn_label: "My Mixes"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_4.jpg
@@ -32,8 +26,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-
-
+<img src="/assets/images/dj_neos_logo.png" width="300" height="300" style="display: block; margin: 0 auto" />
 
 {% include feature_row %}
 
