@@ -26,7 +26,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<img src="/assets/images/dj_neos_logo.png" width="300" height="300" style="display: block; margin: 0 auto" />
+<img src="/assets/images/dj_neos_logo_1.png" width="300" height="300" style="display: block; margin: 0 auto" />
 
 {% include feature_row %}
 
