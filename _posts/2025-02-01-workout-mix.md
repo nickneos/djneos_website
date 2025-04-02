@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Mix: Workout Mix"
+title: "Workout Mix"
 categories:
   - Blog
 tags:

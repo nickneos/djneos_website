@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Weekly Mix: Hip Hop & RnB Hits"
+title: "Hip Hop & RnB Hits"
 categories:
   - Blog
 tags:

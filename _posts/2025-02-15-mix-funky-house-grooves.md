@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Mix: Funky House Grooves"
+title: "Funky House Mix #1"
 categories:
   - Blog
 tags:

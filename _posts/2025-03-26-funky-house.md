@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Weekly Mix: Funky House Mix"
+title: "Funky House Mix #2"
 categories:
   - Blog
 tags:

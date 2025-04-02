@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Weekly Mix 19/01/2025: Open Format"
+title: "Open Format Mix"
 categories:
   - Blog
 tags:

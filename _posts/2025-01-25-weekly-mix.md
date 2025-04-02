@@ -1,5 +1,5 @@
 ---
-title: "DJ Neos Weekly Mix 25/01/2025: Hip Hop"
+title: "Hip Hop Mix"
 categories:
   - Blog
 tags:
