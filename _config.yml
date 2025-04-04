@@ -326,3 +326,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+# head_scripts:
+#   - /assets/js/formspree_clear.js

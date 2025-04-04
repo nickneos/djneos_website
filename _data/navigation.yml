@@ -9,7 +9,7 @@ main:
     url: /mixes/
   # - title: "Gallery"
   #   url: /photos/
-  - title: "Contact Me"
+  - title: "Contact"
     url: /contact/
   # - title: "Blog"
   #   url: /posts/
