@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+classes: wide
 ---
 
 <!-- Melbourne's DJ Neos is ready to bring the party to your next event!
@@ -17,13 +18,13 @@ Whether it's a wedding, corporate event, birthday, or other special event, I'm r
 
 Ready to make your next event a hit? Let's chat! Contact me today for bookings and inquiries. -->
 
-Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my approach to DJing.
+Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
 
-Later in life, I started experimenting with a basic DJ controller as a hobby. Spinning tunes at home for myself (and whoever was in the house); and then later for friends' parties ignited a passion. I soon realized that nothing beats the thrill of creating a musical journey, dropping the perfect track, and seeing the dancefloor explode with joy and energy. That adrenaline rush drives me, and it's the energy and passion I bring to every event.
+Later in life, I started experimenting with a basic DJ controller as a hobby. Spinning tunes at home for myself (and whoever was in the house) and then later for friends' parties ignited a passion. I soon realised that nothing beatsthe thrill of creating a musical journey, dropping the perfect track, and seeing the dancefloor explode with joy and energy. That adrenaline rush drives me, and it's the energy and passion I bring to every event.
 
-Over the years, I've honed my skills blending a diverse range of genres: pop, rock, house, edm, disco, rnb, hip hop, and more...across all decades from old-school classics to today's hits. When I'm spinning those throwbacks especially, I'm transported back to what was big on the dancefloor in my clubbing days, and I love sharing that energy and nostalgia with the crowd.
+Over the years, I've honed my skills blending a diverse range of genres: pop, rock, house, edm, disco, rnb, hip hop, and more...across all decades from old-school classics to current hits. When I'm spinning those throwbacks especially, I'm transported back to what was big on the dancefloor in my clubbing days, and I love sharing that energy and nostalgia with the crowd.
 
-Whether it's a wedding, corporate event, birthday, or any special occasion, I work closely with my clients to understand their unique vision and curate a set that perfectly complements the event and gets the party rocking!
+So whether it's a wedding, corporate event, birthday, or any special occasion, I work closely with my clients to understand their unique vision and curate a set that perfectly complements the event and gets the party rocking!
 
 <!-- (Optional: Add a testimonial or notable client. Example: "I've had the pleasure of playing for [Notable Client/Event], and received amazing feedback such as: '[Testimonial Quote]'") -->
 
