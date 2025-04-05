@@ -5,13 +5,14 @@ permalink: /
 header:
   image: /assets/images/dj_neos_banner_crop.jpg
 excerpt: >
-  Melbourne based DJ available for hire. 
-  Whether it's a wedding, corporate event, birthday, or any special occasion, DJ Neos is ready to bring the party to your next event!
+  Melbourne based DJ providing services for weddings, corporate events, birthday parties, and all special occasions.
+  As an "open format" DJ, I can seamlessly transition across genres including hip-hop, rock anthems, pop hits, electronic vibes and more to create the perfect atmosphere for your event! 
+  Ready to craft an epic party vibe? Get in touch for a free quote and let's make it happen!
 feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
     # title: "About Me"
-    excerpt: "Find out more about my services"
+    excerpt: "Find out more about me"
     url: "/about/"
     btn_label: "About"
     btn_class: "btn--primary"
@@ -30,6 +31,12 @@ feature_row:
 ---
 
 <img src="/assets/images/dj_neos_logo_1.png" width="300" height="300" style="display: block; margin: 0 auto" />
+
+Melbourne based DJ Neos providing DJ services for weddings, corporate events, birthday parties, and all special occasions.
+
+As an "open format" DJ, I can seamlessly transition across genres including hip-hop, rock anthems, pop hits, electronic vibes and more to create the perfect atmosphere for your event!
+
+Ready to craft an epic party vibe? [Get in touch](/contact/) for a free quote and let's make it happen!
 
 {% include feature_row %}
 

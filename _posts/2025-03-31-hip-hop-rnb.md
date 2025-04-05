@@ -1,5 +1,5 @@
 ---
-title: "Hip Hop & RnB Hits #2"
+title: "Hip Hop & R&B Hits #2"
 categories:
   - Blog
 tags:
