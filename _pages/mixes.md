@@ -4,9 +4,7 @@ permalink: /mixes/
 classes: wide
 ---
 
-Enjoy some of my mixes below! 🤘
-
-Additional mixes can be found on my [Mixcloud](https://www.mixcloud.com/n3os/) page.
+Hear the range! My mixes below cover a vibrant spectrum of genres, from classic throwbacks to modern beats. Find your perfect groove and discover the sounds I love to spin. 🤘🔊
 
 <div class="entries-{{ entries_layout }}">
 
