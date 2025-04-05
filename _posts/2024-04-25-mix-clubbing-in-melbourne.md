@@ -1,12 +1,12 @@
 ---
-title: "Clubbing in Melbourne Mix - late 90s early 00s"
+title: "Late 90s & 2000s Club Mix"
 categories:
   - Blog
 tags:
   - mix
 ---
 
-Step into a time machine and relive the electric energy of Melbourne's late 90s and early 00s club scene with my latest mix. This is my personal tribute to the legendary nights and iconic tracks that shaped my youth.
+Step into a time machine and relive the electric energy of Melbourne's late 90s and 2000s club scene with my latest mix. This is my personal tribute to the legendary nights and iconic tracks that shaped my youth.
 
 Expect a whirlwind journey through classic house, trance anthems, and those unforgettable bangers that defined a generation. Get ready to feel the nostalgia and relive the magic! 😎
 
