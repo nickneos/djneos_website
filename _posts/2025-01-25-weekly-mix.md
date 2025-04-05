@@ -1,5 +1,5 @@
 ---
-title: "Hip Hop Mix"
+title: "Hip Hop & RnB Hits #1"
 categories:
   - Blog
 tags:
