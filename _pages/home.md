@@ -13,14 +13,14 @@ feature_row:
   - image_path: /assets/images/feature_3.jpg
     alt: "about"
     # title: "About Me"
-    excerpt: "Find out more about me"
+    excerpt: "Want the inside scoop? Learn more about me here"
     url: "/about/"
     btn_label: "About"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_5.jpg
     alt: "Mixes"
     url: "/mixes/"
-    excerpt: "Rock out to some of my mixes"
+    excerpt: "Here's a taste of my mixes for you to enjoy."
     btn_label: "My Mixes"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_7.jpg
