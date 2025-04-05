@@ -1,6 +1,6 @@
 ---
 title: DJ Neos
-layout: splash
+# layout: splash
 permalink: /
 header:
   image: /assets/images/dj_neos_banner_crop.jpg
@@ -32,7 +32,7 @@ feature_row:
 
 <img src="/assets/images/dj_neos_logo_1.png" width="300" height="300" style="display: block; margin: 0 auto" />
 
-Melbourne based DJ Neos providing DJ services for weddings, corporate events, birthday parties, and all special occasions.
+Melbourne based DJ providing services for weddings, corporate events, birthday parties, and all special occasions.
 
 As an "open format" DJ, I can seamlessly transition across genres including hip-hop, rock anthems, pop hits, electronic vibes and more to create the perfect atmosphere for your event!
 
