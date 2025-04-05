@@ -17,13 +17,13 @@ feature_row:
     url: "/about/"
     btn_label: "About"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature_5.jpg
+  - image_path: /assets/images/feature_3.jpg
     alt: "Mixes"
     url: "/mixes/"
     excerpt: "Rock out to some of my mixes"
     btn_label: "My Mixes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature_4.jpg
+  - image_path: /assets/images/feature_7.jpg
     alt: "contact"
     url: "/contact/"
     excerpt: "Ready to make your next event a hit?"
@@ -44,3 +44,8 @@ Ready to craft an epic party vibe? [Get in touch](/contact/) for a free quote an
 {% include video id="iJcdfv67GYI" provider="youtube" %}
 
 {% include video id="Usjz5LTm548" provider="youtube" %}
+
+{% include video id="A6VnDjqWC5E" provider="youtube" %}
+
+{% include video id="aIXyyBrm7wk" provider="youtube" %}
+
