@@ -24,7 +24,7 @@ Later in life, I started experimenting with a DJ controller as a hobby. Spinning
 
 Over the years, I've honed my skills blending a diverse range of genres: pop, rock, house, edm, disco, rnb, hip hop, and more...across all decades from old-school classics to current hits. When I'm spinning those throwbacks especially, I'm transported back to what was big on the dancefloor in my clubbing days, and I love sharing that energy and nostalgia with the crowd.
 
-So whether it's a wedding, corporate event, birthday, or any special occasion, I work closely with my clients to understand their unique vision and curate a set that perfectly complements the event and gets the party rocking!
+Based in Melbourne, I'm available for hire for your next event! So whether it's a wedding, corporate event, birthday, or any special occasion, I work closely with my clients to understand their unique vision and curate a set that perfectly complements the event and gets the party rocking!
 
 <!-- (Optional: Add a testimonial or notable client. Example: "I've had the pleasure of playing for [Notable Client/Event], and received amazing feedback such as: '[Testimonial Quote]'") -->
 

@@ -4,6 +4,9 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/dj_neos_banner_crop.jpg
+excerpt: >
+  Melbourne based DJ available for hire. 
+  Whether it's a wedding, corporate event, birthday, or any special occasion, DJ Neos is ready to bring the party to your next event!
 feature_row:
   - image_path: /assets/images/feature_6.jpg
     alt: "about"
