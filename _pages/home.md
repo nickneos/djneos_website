@@ -45,6 +45,8 @@ Ready to craft an epic party vibe? [Get in touch](/contact/) for a free quote an
 
 {% include video id="Usjz5LTm548" provider="youtube" %}
 
+{% include video id="5u4RYeTwlXA" provider="youtube" %}
+
 {% include video id="A6VnDjqWC5E" provider="youtube" %}
 
 {% include video id="aIXyyBrm7wk" provider="youtube" %}
