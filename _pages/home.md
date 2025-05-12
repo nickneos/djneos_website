@@ -10,7 +10,7 @@ excerpt: >
   Ready to craft an epic party vibe? Get in touch for a free quote and let's make it happen!
 classes: wide
 feature_row:
-  - image_path: /assets/images/feature_3.jpg
+  - image_path: /assets/images/feature_8.jpg
     alt: "about"
     # title: "About Me"
     excerpt: "Want the inside scoop? Learn more about me here"
