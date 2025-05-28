@@ -37,5 +37,5 @@ Ready to elevate your event to the next level? Let's connect today to discuss ho
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
 
-{% include figure popup=true image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo by [@weddings.by.fran](www.morningtonweddingsbyfran.com)" %}
+{% include figure popup=true image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
