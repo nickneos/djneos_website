@@ -1,25 +1,12 @@
 ---
 permalink: /about/
 classes: wide
-header:
-  image: /assets/images/0A8A0396.jpg
-  caption: "Photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
+# header:
+#  image: /assets/images/0A8A0396.jpg
+#  caption: "Photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
 ---
 
-<!-- Melbourne's DJ Neos is ready to bring the party to your next event!
-
-Spinning all the genres that gets you moving; house, disco, those awesome old-school hits, hip-hop grooves, pop anthems, etc
-
-If it's got a beat, DJ Neos is playing it and getting everyone moving! -->
-
-
-<!-- Hey there! I'm DJ Neos, and I'm ready to bring the party to your next event!
-
-Spinning all the genres that get you moving: the smooth grooves of house and disco, the pulsating beats of electronic dance music (EDM), the nostalgic vibes of retro hits and throwbacks, the classic anthems of rock, and the infectious energy of hip-hop and pop anthems—I've got a track for every moment.
-
-Whether it's a wedding, corporate event, birthday, or other special event, I'm ready to kick the party off!
-
-Ready to make your next event a hit? Let's chat! Contact me today for bookings and inquiries. -->
+{% include figure popup=true image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
 Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
 
@@ -39,3 +26,5 @@ Ready to elevate your event to the next level? Let's connect today to discuss ho
 
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
+
+
