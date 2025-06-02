@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 classes: wide
+header:
+  image: /assets/images/0A8A0396.jpg
+  caption: "Photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
 ---
 
 <!-- Melbourne's DJ Neos is ready to bring the party to your next event!
@@ -36,6 +39,3 @@ Ready to elevate your event to the next level? Let's connect today to discuss ho
 
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
-
-{% include figure popup=true image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
-
