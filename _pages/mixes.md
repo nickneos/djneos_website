@@ -1,7 +1,6 @@
 ---
 title: Mixes by DJ Neos
 permalink: /mixes/
-classes: wide
 ---
 
 Hear the range! My mixes below cover a vibrant spectrum of genres, from classic throwbacks to modern beats. Find your perfect groove and discover the sounds I love to spin. 🤘🔊

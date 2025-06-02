@@ -316,7 +316,7 @@ defaults:
       comments: false
       share: true
       related: true
-  #     # classes: wide
+      classes: wide
   #     # header:
   #     #   overlay_color: "#333"
   # _pages
@@ -326,6 +326,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 
 
 # head_scripts:

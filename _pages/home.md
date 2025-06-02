@@ -8,7 +8,6 @@ excerpt: >
   Melbourne based DJ providing services for weddings, corporate events, birthday parties, and all special occasions.
   As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, electronic dance music, rock anthems, pop hits and more to create the perfect atmosphere for your event! 
   Ready to craft an epic party vibe? Get in touch for a free quote and let's make it happen!
-classes: wide
 feature_row:
   - image_path: /assets/images/feature_8.jpg
     alt: "about"

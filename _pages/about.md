@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-classes: wide
 # header:
 #  image: /assets/images/0A8A0396.jpg
 #  caption: "Photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"

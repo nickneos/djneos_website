@@ -1,7 +1,6 @@
 ---
 permalink: /contact/
 title: "Contact"
-classes: wide
 ---
 
 Use the below form to get in touch, or email [contact@djneos.com](mailto:contact@djneos.com)
