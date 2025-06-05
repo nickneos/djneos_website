@@ -1,12 +1,10 @@
 ---
 permalink: /about/
 classes: wide
-# header:
-#  image: /assets/images/0A8A0396.jpg
-#  caption: "Photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
+header:
+  image: /assets/images/splash_img.jpg
 ---
 
-{% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
 Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
 
@@ -16,15 +14,10 @@ Over the years, I've honed my skills blending a diverse range of genres: pop, ro
 
 Based in Melbourne, I'm available for hire for your next event! So whether it's a wedding, corporate event, birthday, or any special occasion, I work closely with my clients to understand their unique vision and curate a set that perfectly complements the event and gets the party rocking!
 
-<!-- (Optional: Add a testimonial or notable client. Example: "I've had the pleasure of playing for [Notable Client/Event], and received amazing feedback such as: '[Testimonial Quote]'") -->
-
 Ready to elevate your event to the next level? Let's connect today to discuss how we can create an unforgettable musical experience together.
 
-<!-- [Button: Book DJ Neos Now] or [Button: Contact Me]
-
-(Optional: Add a section about your equipment or setup if it's a selling point.) -->
-
-
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
+
+{% include figure image_path="/assets/images/bio-photo-1.jpg" alt="DJ Neos" %}
 
 

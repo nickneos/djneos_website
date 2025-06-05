@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   # name             : "DJ Neos"
-  avatar           : "/assets/images/dj_neos_logo_1.png"
+  avatar           : "/assets/images/dj_neos_logo.png"
   # bio              : Ready to bring the party to your next event!
   location         : Melbourne, AU
   email            :
