@@ -2,25 +2,25 @@
 title: DJ Neos
 # layout: splash
 permalink: /
+classes: wide
 header:
   image: /assets/images/dj_neos_banner_crop.jpg
 excerpt: >
   Melbourne based DJ providing services for weddings, corporate events, birthday parties, and all special occasions.
-  As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, electronic dance music, rock anthems, pop hits and more to create the perfect atmosphere for your event! 
+  As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, electronic dance music, rock anthems, pop hits and more to create the perfect atmosphere for your event!
   Ready to craft an epic party vibe? Get in touch for a free quote and let's make it happen!
 feature_row:
-  - image_path: /assets/images/feature_8.jpg
-    alt: "about"
-    # title: "About Me"
-    excerpt: "Want the inside scoop? Learn more about me here"
-    url: "/about/"
-    btn_label: "About"
-    btn_class: "btn--primary"
   - image_path: /assets/images/feature_5.jpg
     alt: "Mixes"
     url: "/mixes/"
     excerpt: "Here's a taste of my mixes for you to enjoy."
     btn_label: "My Mixes"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature_8.jpg
+    alt: "Services"
+    excerpt: "Details and pricing for the services I offer"
+    url: "/services/"
+    btn_label: "Services"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_7.jpg
     alt: "contact"
@@ -29,8 +29,6 @@ feature_row:
     btn_label: "Contact Me"
     btn_class: "btn--primary"
 ---
-
-<img src="/assets/images/dj_neos_logo_1.png" width="300" height="300" style="display: block; margin: 0 auto" />
 
 Melbourne based DJ providing services for weddings, corporate events, birthday parties, and all special occasions.
 
@@ -50,7 +48,5 @@ Ready to craft an epic party vibe? [Get in touch](/contact/) for a free quote an
 {% include video id="Usjz5LTm548" provider="youtube" %}
 
 {% include video id="5u4RYeTwlXA" provider="youtube" %}
-
-{% include video id="g1H0Qs2xFTE" provider="youtube" %}
 
 More of my mixes [here](/mixes/)! 🎧

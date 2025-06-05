@@ -132,7 +132,7 @@ author:
       url: "https://www.mixcloud.com/n3os/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@djneos.com"
+      url: "mailto:contact@djneos.com.au"
     # - label: "Book Now"
     #   icon: "fas fa-fw fa-calendar"
     #   url: "/contact/"
@@ -151,7 +151,7 @@ footer:
       url: "https://www.mixcloud.com/n3os/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@djneos.com"
+      url: "mailto:contact@djneos.com.au"
 
 
 # Reading Files
@@ -326,7 +326,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      classes: wide
+      # classes: wide
 
 
 # head_scripts:
