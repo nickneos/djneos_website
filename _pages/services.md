@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Services"
+# title: "Services"
 # header:
 #   image: /assets/images/splash_img.jpg
 toc: true
