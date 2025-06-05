@@ -1,10 +1,11 @@
 ---
 permalink: /about/
 classes: wide
-header:
-  image: /assets/images/splash_img.jpg
+# header:
+#   image: /assets/images/splash_img.jpg
 ---
 
+{% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
 
 Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
 
@@ -17,7 +18,3 @@ Based in Melbourne, I'm available for hire for your next event! So whether it's 
 Ready to elevate your event to the next level? Let's connect today to discuss how we can create an unforgettable musical experience together.
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
-
-<!-- {% include figure image_path="/assets/images/bio-photo-1.jpg" alt="DJ Neos" %} -->
-
-

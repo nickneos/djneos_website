@@ -1,8 +1,8 @@
 ---
 permalink: /services/
 title: "Services"
-header:
-  image: /assets/images/splash_img.jpg
+# header:
+#   image: /assets/images/splash_img.jpg
 toc: true
 toc_label: "Services"
 ---
@@ -14,7 +14,7 @@ toc_label: "Services"
 I specialise in creating a fun and energetic atmosphere for every wedding, from intimate gatherings to larger celebrations. I'm skilled at reading the crowd and seamlessly [blending genres](/mixes/) to keep your dance floor packed all night long.
 
 My quotes typically fall within the $700 - $1100 range. Exact pricing depends on your specific date, venue, location, and guest count. Get in touch for a personalised quote [here](/contact/).
-{: .notice--info}
+<!-- {: .notice--info} -->
 
 ### What's included
 
@@ -46,7 +46,7 @@ My quotes typically fall within the $700 - $1100 range. Exact pricing depends on
 Ready to get the party started? I'll bring the perfect vibe to your next event!
 
 Since every party is unique, please reach out to me [here](/contact/) with the details, and I'll provide a custom quote back within 24 hours!
-{: .notice--info}
+<!-- {: .notice--info} -->
 
 ### What's included
 

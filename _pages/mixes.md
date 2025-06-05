@@ -2,8 +2,8 @@
 title: Mixes by DJ Neos
 permalink: /mixes/
 classes: wide
-header:
-  image: /assets/images/dj_neos_banner_crop_2.jpg
+# header:
+#   image: /assets/images/dj_neos_banner_crop_2.jpg
 ---
 
 Hear the range! My mixes below cover a vibrant spectrum of genres, from classic throwbacks to modern beats. Find your perfect groove and discover the sounds I love to spin. 🤘🔊
