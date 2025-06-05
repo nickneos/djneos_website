@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Services"
+# title: "Services"
 header:
   image: /assets/images/0A8A0396_crop.jpg
   image_caption: "photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
