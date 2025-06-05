@@ -1,13 +1,16 @@
 ---
 permalink: /services/
 title: "Services"
+header:
+  image: /assets/images/0A8A0396_crop.jpg
+  image_caption: "photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)"
 toc: true
 toc_label: "Services"
 ---
 
 ## Weddings
 
-{% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
+<!-- {% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %} -->
 
 I specialise in creating a fun and energetic atmosphere for every wedding, from intimate gatherings to larger celebrations. I'm skilled at reading the crowd and seamlessly [blending genres](/mixes/) to keep your dance floor packed all night long.
 

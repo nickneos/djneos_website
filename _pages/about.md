@@ -18,6 +18,6 @@ Ready to elevate your event to the next level? Let's connect today to discuss ho
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
 
-{% include figure image_path="/assets/images/bio-photo-1.jpg" alt="DJ Neos" %}
+<!-- {% include figure image_path="/assets/images/bio-photo-1.jpg" alt="DJ Neos" %} -->
 
 
