@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+title: About Me
 # classes: wide
 # header:
 #   image: /assets/images/splash_img.jpg

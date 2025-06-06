@@ -10,17 +10,17 @@ excerpt: >
   As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, electronic dance music, rock anthems, pop hits and more to create the perfect atmosphere for your event!
   Ready to craft an epic party vibe? Get in touch for a free quote and let's make it happen!
 feature_row:
-  - image_path: /assets/images/feature_5.jpg
-    alt: "Mixes"
-    url: "/mixes/"
-    excerpt: "Here's a taste of my mixes for you to enjoy."
-    btn_label: "My Mixes"
-    btn_class: "btn--primary"
   - image_path: /assets/images/feature_8.jpg
     alt: "Services"
     excerpt: "Details and pricing for the services I offer"
     url: "/services/"
     btn_label: "Services"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature_5.jpg
+    alt: "Mixes"
+    url: "/mixes/"
+    excerpt: "Here's a taste of my mixes for you to enjoy."
+    btn_label: "My Mixes"
     btn_class: "btn--primary"
   - image_path: /assets/images/feature_7.jpg
     alt: "contact"
