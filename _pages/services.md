@@ -9,7 +9,7 @@ toc_label: "Services"
 toc_sticky: true
 ---
 
-{% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
+{% include figure image_path="/assets/images/dj_neos_profile.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
 # Weddings
 
