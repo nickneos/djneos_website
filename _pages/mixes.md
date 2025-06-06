@@ -1,7 +1,8 @@
 ---
 title: Mixes by DJ Neos
 permalink: /mixes/
-classes: wide
+# classes: wide
+layout: splash
 # header:
 #   image: /assets/images/dj_neos_banner_crop_2.jpg
 ---

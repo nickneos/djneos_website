@@ -1,8 +1,8 @@
 ---
 title: DJ Neos
-# layout: splash
+layout: splash
 permalink: /
-classes: wide
+# classes: wide
 header:
   image: /assets/images/dj_neos_banner_crop.jpg
 excerpt: >
