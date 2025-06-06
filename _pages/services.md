@@ -11,7 +11,7 @@ toc_sticky: true
 
 {% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
-## Weddings
+# Weddings
 
 I specialise in creating a fun and energetic atmosphere for every wedding, from intimate gatherings to larger celebrations. I'm skilled at reading the crowd and seamlessly [blending genres](/mixes/) to keep your dance floor packed all night long.
 
@@ -19,7 +19,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 
 
 {% capture notice-1 %}
-### What's included
+**What's included**
 
 - Coverage of a reception for up to 5 hours (eg. 6pm to 11pm). Additional hours can be negotiated and added to your package.
 - Arrival 1-2 hours prior to the reception for setup, sound checks, and preparation.
@@ -33,7 +33,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 <div class="notice--success">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-### The Booking Process
+**The Booking Process**
 
 1. Think I'm your guy? Request a quote by clicking the button below!
 2. Let's chat and ensure we're the right fit for each other. Feel free to ask as many questions as you want!
@@ -50,9 +50,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 
-
-
-## Birthdays, parties and other private events
+# Birthdays, parties and other private events
 
 {% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
 
@@ -62,7 +60,7 @@ Since every party is unique, please reach out to me [here](/contact/) with the d
 
 
 {% capture notice-3 %}
-### What's included
+**What's included**
 
 - Arrival 1-2 hours prior to the event for setup, sound checks, and preparation.
 - A professional sound system adequately sized for your guest count and venue.
@@ -76,7 +74,7 @@ Since every party is unique, please reach out to me [here](/contact/) with the d
 
 
 {% capture notice-4 %}
-### The Booking Process
+**The Booking Process**
 
 1. Think I'm your guy? Request a quote by clicking the button below!
 2. Let's chat and ensure we're the right fit for each other. Feel free to ask as many questions as you want!
