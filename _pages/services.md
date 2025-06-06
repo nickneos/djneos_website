@@ -4,7 +4,9 @@ title: "Services"
 # header:
 #   image: /assets/images/splash_img.jpg
 toc: true
+toc_icon: record-vinyl
 toc_label: "Services"
+toc_sticky: true
 ---
 
 {% include figure image_path="/assets/images/0A8A0396.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
@@ -13,7 +15,7 @@ toc_label: "Services"
 
 I specialise in creating a fun and energetic atmosphere for every wedding, from intimate gatherings to larger celebrations. I'm skilled at reading the crowd and seamlessly [blending genres](/mixes/) to keep your dance floor packed all night long.
 
-**My fee typically falls within the $700 - $1100 range.** Exact pricing depends on your specific date, venue, location, and guest count. Get in touch for a personalised quote [here](/contact/).
+**My fee typically falls within the $700 - $1200 range.** Exact pricing depends on your specific date, venue, location, and guest count. Get in touch for a personalised quote [here](/contact/).
 
 
 {% capture notice-1 %}
