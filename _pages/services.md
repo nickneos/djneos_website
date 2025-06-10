@@ -49,7 +49,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
-Still putting together your dream team for the big day? Here's my [list](/recommended_vendors/) of recommended wedding vendors.
+ℹ️ Still putting together your dream team for the big day? Here's my [list](/recommended_vendors/) of recommended wedding vendors.
 {: .notice--warning}
 
 

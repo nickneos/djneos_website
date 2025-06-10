@@ -36,7 +36,7 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 
 {% include feature_row %}
 
-DJ Neos has been mentioned by [Vogue Ballroom](https://vogueballroom.com.au/) & [Vines of the Yarra Valley](https://vinesoftheyarravalley.com.au/) as one of the Top Wedding DJs!
+✅ DJ Neos has been mentioned by [Vogue Ballroom](https://vogueballroom.com.au/) & [Vines of the Yarra Valley](https://vinesoftheyarravalley.com.au/) as one of the Top Wedding DJs!
 {: .notice--warning}
 
 <div align="center">
