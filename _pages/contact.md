@@ -28,6 +28,5 @@ For booking enquiries, please include venue, date and number of guests in your m
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
     <!-- Custom Confirmation / Success Page -->
     <input type="hidden" name="redirect" value="https://www.djneos.com.au/thanks/">
-    <div class="h-captcha" data-captcha="false"></div>
     <button type="submit">Send</button>
 </form>
