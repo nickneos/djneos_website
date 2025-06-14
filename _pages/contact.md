@@ -17,7 +17,7 @@ For booking enquiries, please include venue, date and number of guests in your m
     <button type="submit">Send</button>
 </form> -->
 
-<form id="form1" action="https://api.web3forms.com/submit" method="POST">
+<form action="https://api.web3forms.com/submit" method="POST">
     <input type="hidden" name="access_key" value="d21069d0-5662-489a-b981-095235c8ae3e">
     <input type="hidden" name="subject" value="[djneos.com.au] Contact Request" />
     <!-- Form Inputs. Each input must have a name="" attribute -->
@@ -28,24 +28,5 @@ For booking enquiries, please include venue, date and number of guests in your m
     <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
     <!-- Custom Confirmation / Success Page -->
     <input type="hidden" name="redirect" value="https://www.djneos.com.au/thanks/">
-    <div class="h-captcha" data-captcha="true"></div>
     <button type="submit">Send</button>
 </form>
-
-
-<script src="https://web3forms.com/client/script.js" async defer></script>
-
-<script>
-const form = document.getElementById('form1');
-
-form.addEventListener('submit', function(e) {
-
-    const hCaptcha = form.querySelector('textarea[name=h-captcha-response]').value;
-
-    if (!hCaptcha) {
-        e.preventDefault();
-        alert("Please fill out captcha field")
-        return
-    }
-});
-</script>
