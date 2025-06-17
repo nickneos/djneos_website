@@ -4,10 +4,8 @@ title: About Me
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
-  overlay_padding: 6em 0
+  overlay_padding: 5em 0
 ---
-
-{% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
 
 Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
 
@@ -21,3 +19,4 @@ Ready to elevate your event to the next level? Let's connect today to discuss ho
 
 <a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
 
+{% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}

@@ -6,8 +6,10 @@ permalink: /
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
-  overlay_padding: 6em 0
+  overlay_padding: 5em 0
   actions:
+    - label: "Services"
+      url: "/services/"
     - label: "Book Now"
       url: "/contact/"
 excerpt: >
