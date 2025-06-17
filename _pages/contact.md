@@ -1,7 +1,10 @@
 ---
 permalink: /contact/
 title: "Get in Touch"
-classes: wide
+header:
+  overlay_image: /assets/images/dj_neos_banner.jpg
+  overlay_filter: 0.65
+  overlay_padding: 6em 0
 ---
 
 Use the below form or email [contact@djneos.com.au](mailto:contact@djneos.com.au)

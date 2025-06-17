@@ -4,8 +4,9 @@ layout: splash
 permalink: /
 # classes: wide
 header:
-  overlay_image: /assets/images/dj_neos_banner_crop.jpg
-  overlay_filter: 0.5
+  overlay_image: /assets/images/dj_neos_banner.jpg
+  overlay_filter: 0.65
+  overlay_padding: 6em 0
   actions:
     - label: "Book Now"
       url: "/contact/"
@@ -40,7 +41,7 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 
 {% include feature_row %}
 
-✅ DJ Neos has been mentioned by [Vogue Ballroom](https://vogueballroom.com.au/) & [Vines of the Yarra Valley](https://vinesoftheyarravalley.com.au/) as one of the Top Wedding DJs!
+✅ DJ Neos has been mentioned by [Vogue Ballroom](https://vogueballroom.com.au/98-top-wedding-djs-and-bands-in-melbourne/) & [Vines of the Yarra Valley](https://vinesoftheyarravalley.com.au/wedding-djs-melbourne-victoria/) as one of the Top Wedding DJs!
 {: .notice--warning}
 
 <div align="center">

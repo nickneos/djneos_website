@@ -1,17 +1,19 @@
 ---
 permalink: /services/
 title: "Services"
-# header:
-#   image: /assets/images/splash_img.jpg
 toc: true
 toc_icon: record-vinyl
 toc_label: "Services"
 toc_sticky: true
+header:
+  overlay_image: /assets/images/dj_neos_banner.jpg
+  overlay_filter: 0.65
+  overlay_padding: 6em 0
 ---
 
-{% include figure image_path="/assets/images/dj_neos_profile.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
-
 # Weddings
+
+{% include figure image_path="/assets/images/dj_neos_profile.jpg" alt="DJ Neos" caption="photo credit: [@weddings.by.fran](https://www.instagram.com/weddings.by.fran/)" %}
 
 I specialise in creating a fun and energetic atmosphere for every wedding, from intimate gatherings to larger celebrations. I'm skilled at reading the crowd and seamlessly [blending genres](/mixes/) to keep your dance floor packed all night long.
 
@@ -38,7 +40,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 1. Think I'm your guy? Request a quote by clicking the button below!
 2. Let's chat and ensure we're the right fit for each other. Feel free to ask as many questions as you want!
 3. Lock me in and secure your date by signing a service agreement and paying a $200 deposit.
-4. I will send a fun little music questionnaire for you to complete. I usually send this out a few months before the wedding, when you have a clearer idea of the night's format from your venue, wedding planner, or other vendors.
+4. I will send a music questionnaire for you to complete. I usually send this out a few months before the wedding, when you have a clearer idea of the night's format from your venue, wedding planner, or other vendors.
 5. We'll then catch up (in person or via Zoom) to go through the music questionnaire, discuss your musical tastes, preferred vibe, and the run sheet for the night, allowing us to finalise all the finer details.
 6. I will do a quick check-in with you the week leading up to your wedding to confirm any last-minute changes to the run sheet or other arrangements.
 7. The remaining balance will be due 3 days before your wedding.

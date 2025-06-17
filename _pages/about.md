@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 title: About Me
-# classes: wide
-# header:
-#   image: /assets/images/splash_img.jpg
+header:
+  overlay_image: /assets/images/dj_neos_banner.jpg
+  overlay_filter: 0.65
+  overlay_padding: 6em 0
 ---
 
 {% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
