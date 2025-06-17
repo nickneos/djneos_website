@@ -17,7 +17,7 @@ For booking enquiries, please include venue, date and number of guests in your m
   action="/thanks/"
   netlify-honeypot="gotcha"
 >
-  <input type="hidden" name="subject" value="[www.djneos.com.au] Contact Request (23%{submissionId})">
+  <input type="hidden" name="subject" value="[www.djneos.com.au] Contact Request (Ref: 23%{submissionId})">
   <div class="fs-field">
     <label class="fs-label" for="name">Your Name</label>
     <input class="fs-input" type="text" id="name" name="name" required />
