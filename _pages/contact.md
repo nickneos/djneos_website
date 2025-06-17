@@ -8,12 +8,11 @@ Use the below form to get in touch, or email [contact@djneos.com.au](mailto:cont
 
 For booking enquiries, please include venue, date and number of guests in your message if you have these details.
 
-<form name="contact" method="POST" data-netlify="true" action="/thanks/" netlify-honeypot="gotcha" data-netlify-recaptcha="true">
-    <input type="hidden" name="subject" value="[www.djneos.com.au] Contact Request from %{formName} (%{submissionId})">
+<form name="contact" method="POST" data-netlify="true" action="/thanks/" netlify-honeypot="gotcha">
+    <input type="hidden" name="subject" value="Contact Request from www.djneos.com.au (ID-00%{submissionId})">
     <input type="text" name="name" placeholder="Your name" required>
     <input type="email" name="email" placeholder="Your email" required>
     <textarea name="message" rows="10" placeholder="Type your message" required></textarea>
     <input type="text" name="gotcha" style="display:none" />
-    <div data-netlify-recaptcha="true"></div>
     <button type="submit">Send</button>
 </form>
