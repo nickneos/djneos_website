@@ -4,7 +4,11 @@ layout: splash
 permalink: /
 # classes: wide
 header:
-  image: /assets/images/dj_neos_banner_crop.jpg
+  overlay_image: /assets/images/dj_neos_banner_crop.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Book Now"
+      url: "/contact/"
 excerpt: >
   Affordable Melbourne based DJ providing services for weddings, birthday parties, private events, and all special occasions.
 feature_row:
@@ -28,11 +32,11 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Affordable Melbourne based DJ providing services for weddings, birthday parties, private events, and all special occasions.
+<!-- Affordable Melbourne based DJ providing services for weddings, birthday parties, private events, and all special occasions.
 
 As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, dance and electronic, rock anthems, pop hits, and more to create the perfect atmosphere for your event!
 
-Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it happen!
+Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it happen! -->
 
 {% include feature_row %}
 
@@ -44,10 +48,8 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 <script async src="//www.instagram.com/embed.js"></script>
 </div>
 
-{% include video id="iJcdfv67GYI" provider="youtube" %}
-
 {% include video id="Usjz5LTm548" provider="youtube" %}
-
 {% include video id="5u4RYeTwlXA" provider="youtube" %}
+{% include video id="iJcdfv67GYI" provider="youtube" %}
 
 More of my mixes [here](/mixes/)! 🎧
