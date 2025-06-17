@@ -32,6 +32,7 @@ For booking enquiries, please include venue, date and number of guests in your m
       class="fs-textarea"
       id="message"
       name="message"
+      rows="10"
       required
     ></textarea>
   </div>
