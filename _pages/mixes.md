@@ -4,8 +4,8 @@ permalink: /mixes/
 # classes: wide
 layout: splash
 header:
-  overlay_image: /assets/images/dj_neos_banner_2.jpg
-  overlay_filter: 0.4
+  overlay_image: /assets/images/dj_neos_banner_3.jpg
+  overlay_filter: 0.6
   overlay_padding: 9em 0 1em
 excerpt: >
     Hear the range! My mixes below cover a vibrant spectrum of genres, from classic throwbacks to modern beats. Find your perfect groove and discover the sounds I love to spin. 🤘🔊
