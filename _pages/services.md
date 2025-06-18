@@ -6,9 +6,9 @@ toc_icon: record-vinyl
 toc_label: "Services"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/dj_neos_banner_3.jpg
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
   overlay_filter: 0.3
-  overlay_padding: 10em 0 2em
+  overlay_padding: 11em 0 1em
 ---
 
 # Weddings

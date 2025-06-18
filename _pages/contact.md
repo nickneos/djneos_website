@@ -2,9 +2,9 @@
 permalink: /contact/
 title: "Get in Touch"
 header:
-  overlay_image: /assets/images/dj_neos_banner_3.jpg
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
   overlay_filter: 0.3
-  overlay_padding: 10em 0 2em
+  overlay_padding: 11em 0 1em
 page_css:
   - /assets/css/contact_form.css
 ---
@@ -19,7 +19,7 @@ For booking enquiries, please include venue, date and number of guests in your m
   name="contact"
   method="POST"
   data-netlify="true"
-  action="/thanks/"
+  action="/contact/sent/"
   netlify-honeypot="gotcha"
 >
   <input type="hidden" name="subject" value="[www.djneos.com.au] Contact Request (Ref: 23%{submissionId})">
