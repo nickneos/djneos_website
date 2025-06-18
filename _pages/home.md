@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
-  overlay_padding: 9em 0 1em
+  overlay_padding: 15em 0 1em
   actions:
     - label: "Services"
       url: "/services/"
