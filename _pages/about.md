@@ -2,8 +2,8 @@
 permalink: /about/
 title: About Me
 header:
-  overlay_image: /assets/images/dj_neos_banner.jpg
-  overlay_filter: 0.65
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_filter: 0.4
   overlay_padding: 9em 0 1em
 ---
 
