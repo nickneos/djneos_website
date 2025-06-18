@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About Me
+title: Behind The Decks
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
