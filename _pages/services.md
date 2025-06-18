@@ -46,7 +46,8 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 7. The remaining balance will be due 3 days before your wedding.
 8. It's the big day! Time to party!
 
-<a href="/contact/" class="btn btn--primary btn--large">Request a Quote</a>
+[Request a Quote](/contact/){: .btn .btn--inverse .btn--large}
+{: .text-center}
 {% endcapture %}
 
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
@@ -88,7 +89,8 @@ Since every party is unique, please reach out to me [here](/contact/) with the d
 5. The remaining balance will be due 3 days before the event.
 6. The day/night has arrived. Party time!
 
-<a href="/contact/" class="btn btn--primary btn--large">Request a Quote</a>
+[Request a Quote](/contact/){: .btn .btn--inverse .btn--large}
+{: .text-center}
 {% endcapture %}
 
 <div class="notice--info">{{ notice-4 | markdownify }}</div>

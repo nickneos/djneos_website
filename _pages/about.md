@@ -17,6 +17,7 @@ Based in Melbourne, I'm available for hire for your next event! So whether it's 
 
 Ready to elevate your event to the next level? Let's connect today to discuss how we can create an unforgettable musical experience together.
 
-<a href="/contact/" class="btn btn--primary btn--large">Book Now</a>
+[Book Now](/contact/){: .btn .btn--primary .btn--large}
+{: .text-center}
 
 {% include figure image_path="/assets/images/IMG_01.jpg" alt="DJ Neos" %}
