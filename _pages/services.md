@@ -52,7 +52,7 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
-ℹ️ Still putting together your dream team for the big day? Here's my [list](/recommended_vendors/) of recommended wedding vendors.
+<i class="fas fa-fw fa-circle-info" aria-hidden="true" style="color: #007bb6; font-size: 1.25em"></i> Still putting together your dream team for the big day? Here's my [list](/recommended_vendors/) of recommended wedding vendors.
 {: .notice--warning}
 
 
