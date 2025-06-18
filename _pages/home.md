@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
-  overlay_padding: 5em 0
+  overlay_padding: 9em 0 1em
   actions:
     - label: "Services"
       url: "/services/"
@@ -14,6 +14,10 @@ header:
       url: "/contact/"
 excerpt: >
   Affordable Melbourne based DJ providing services for weddings, birthday parties, private events, and all special occasions.
+  As an "open format" DJ, I can seamlessly transition across multiple genres including hip-hop, dance and electronic, rock anthems, pop hits, and more to create the perfect atmosphere for your event!
+  Ready to craft an epic party vibe? Let's get in touch and make it happen!
+tagline: >
+  Melbourne based DJ available to get your dancefloor ROCKING at your next wedding, birthday party or private event....without breaking the bank!
 feature_row:
   - image_path: /assets/images/feature_8.jpg
     alt: "Services"

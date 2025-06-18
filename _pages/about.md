@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: Behind The Decks
+title: About Me
 header:
   overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.65
-  overlay_padding: 5em 0
+  overlay_padding: 9em 0 1em
 ---
 
 Hey there! I'm Nick (aka DJ Neos), and my passion for music was ignited as a regular club-goer in Melbourne's electrifying late 90s and early 2000s club scene. Immersed in the pulsating rhythms of dance music and the raw beats of hip-hop, those early experiences captivated me and stuck with me decades later to shape my current approach to DJing.
