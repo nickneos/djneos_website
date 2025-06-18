@@ -5,6 +5,8 @@ header:
   overlay_image: /assets/images/dj_neos_banner_2.jpg
   overlay_filter: 0.4
   overlay_padding: 10em 0 2em
+page_css:
+  - /assets/css/contact_form.css
 ---
 
 Use the below form or email [contact@djneos.com.au](mailto:contact@djneos.com.au)
@@ -31,13 +33,7 @@ For booking enquiries, please include venue, date and number of guests in your m
   </div>
   <div class="fs-field">
     <label class="fs-label" for="message">Message</label>
-    <textarea
-      class="fs-textarea"
-      id="message"
-      name="message"
-      rows="10"
-      required
-    ></textarea>
+    <textarea class="fs-textarea" id="message" name="message" rows="10" required></textarea>
   </div>
   <input type="text" name="gotcha" style="display:none" />
   <div class="fs-button-group">

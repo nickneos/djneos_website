@@ -8,8 +8,10 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
 <link rel="manifest" href="/assets/favicon/site.webmanifest" />
 
-{% if page.permalink == "/contact/" %}
-  <link rel="stylesheet" href="{{ '/assets/css/contact_form.css' | relative_url }}">
+{% if page.page_css %}
+  {% for stylesheet in page.page_css %}
+    <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
+  {% endfor %}
 {% endif %}
 
 <!-- end custom head snippets -->
