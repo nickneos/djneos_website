@@ -147,12 +147,11 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@dj_neos?si=7hYtJzb35yQf8V6s"
     - label: "Mixcloud"
-      icon: "fas fa-fw fa-m"
+      icon: "fab fa-fw fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@djneos.com.au"
-
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "mailto:contact@djneos.com.au"
 
 # Reading Files
 include:

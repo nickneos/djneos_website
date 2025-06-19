@@ -8,10 +8,11 @@ header:
 page_css:
   - /assets/css/contact_form.css
 ---
+Shoot me a message via the form below or email [contact@djneos.com.au](mailto:contact@djneos.com.au)
 
-Use the below form or email [contact@djneos.com.au](mailto:contact@djneos.com.au)
+Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+61468689700)
 
-For booking enquiries, please include venue, date and number of guests in your message if you have these details.
+*For booking enquiries, please include venue, date and number of guests in your message if you have these details.*
 
 <form
   class="fs-form"
@@ -21,6 +22,7 @@ For booking enquiries, please include venue, date and number of guests in your m
   data-netlify="true"
   action="/contact/sent/"
   netlify-honeypot="gotcha"
+  style="border-radius: 0.75rem"
 >
   <input type="hidden" name="subject" value="[www.djneos.com.au] Contact Request (Ref: 23%{submissionId})">
   <div class="fs-field">
@@ -28,7 +30,7 @@ For booking enquiries, please include venue, date and number of guests in your m
     <input class="fs-input" type="text" id="name" name="name" required />
   </div>
   <div class="fs-field">
-    <label class="fs-label" for="email">Email</label>
+    <label class="fs-label" for="email">Your Email</label>
     <input class="fs-input" type="email" id="email" name="email" required />
   </div>
   <div class="fs-field">
