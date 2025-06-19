@@ -4,6 +4,11 @@ categories:
   - Blog
 tags:
   - mix
+header:
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_filter: 0.3
+  overlay_padding: 15em 0 1em
+  show_overlay_excerpt: false
 ---
 
 This week's mix is a collection of genres 🎵, blended together to create a unique listening experience 🎧. Expect a variety of musical styles, and seamless transitions ➡️.

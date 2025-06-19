@@ -4,6 +4,11 @@ categories:
   - Blog
 tags:
   - mix
+header:
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_filter: 0.3
+  overlay_padding: 15em 0 1em
+  show_overlay_excerpt: false
 ---
 
 Get ready to move with my latest mix 🎶🔊 Expect infectious basslines, soulful vocals, and those irresistible rhythms that will have you grooving from start to finish. Let's get funky! 🕺🪩

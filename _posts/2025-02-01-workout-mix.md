@@ -4,6 +4,11 @@ categories:
   - Blog
 tags:
   - mix
+header:
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_filter: 0.3
+  overlay_padding: 15em 0 1em
+  show_overlay_excerpt: false
 ---
 
 Elevate your workout with my latest mix! Expect high-octane tracks designed to ignite your drive and push you further. Let's go! 🚀🏋️

@@ -4,6 +4,11 @@ categories:
   - Blog
 tags:
   - mix
+header:
+  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_filter: 0.3
+  overlay_padding: 15em 0 1em
+  show_overlay_excerpt: false
 ---
 
 Step into a time machine and relive the electric energy of Melbourne's late 90s and 2000s club scene with my latest mix. This is my personal tribute to the legendary nights and iconic tracks that shaped my youth.
