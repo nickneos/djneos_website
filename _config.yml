@@ -327,7 +327,3 @@ defaults:
       layout: single
       author_profile: false
       # classes: wide
-
-
-# head_scripts:
-#   - /assets/js/formspree_clear.js
