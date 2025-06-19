@@ -8,7 +8,7 @@ toc_sticky: true
 header:
   overlay_image: /assets/images/dj_neos_banner_2.jpg
   overlay_filter: 0.3
-  overlay_padding: 15em 0 1em
+  overlay_padding: 12.5em 0 1em
 ---
 
 # Weddings
