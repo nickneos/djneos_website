@@ -121,18 +121,21 @@ author:
   location         : Melbourne, AU
   email            :
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dj.neos"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@dj_neos?si=7hYtJzb35yQf8V6s"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dj.neos"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@dj.neos"
     - label: "Mixcloud"
-      icon: "fas fa-fw fa-m"
+      icon: "fab fa-fw fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:contact@djneos.com.au"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "mailto:contact@djneos.com.au"
     # - label: "Book Now"
     #   icon: "fas fa-fw fa-calendar"
     #   url: "/contact/"
@@ -140,15 +143,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dj.neos"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@dj_neos?si=7hYtJzb35yQf8V6s"
     - label: "Mixcloud"
       icon: "fab fa-fw fa-mixcloud"
       url: "https://www.mixcloud.com/n3os/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@dj_neos?si=7hYtJzb35yQf8V6s"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dj.neos"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@dj.neos"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope"
     #   url: "mailto:contact@djneos.com.au"
@@ -310,12 +316,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: true
       related: true
-      classes: wide
+      # classes: wide
   #     # header:
   #     #   overlay_color: "#333"
   # _pages
@@ -324,5 +330,5 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       # classes: wide
