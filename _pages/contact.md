@@ -24,7 +24,7 @@ Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+6146868970
   netlify-honeypot="gotcha"
   style="border-radius: 0.75rem"
 >
-  <input type="hidden" name="subject" value="[DJ Neos] Contact Request (Ref: 23%{submissionId})">
+  <input type="hidden" name="subject" value="[DJ Neos] Contact Request (Ref: 3%{submissionId})">
   <div class="fs-field">
     <label class="fs-label" for="name">Your Name</label>
     <input class="fs-input" type="text" id="name" name="name" required />
