@@ -50,17 +50,17 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 {: .notice--info}
 
 <!-- Elfsight Google Reviews | Untitled Google Reviews -->
-<!-- <script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-7a5fe23a-9c14-40cb-99e0-d4aebf61cff2" data-elfsight-app-lazy></div> -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-7a5fe23a-9c14-40cb-99e0-d4aebf61cff2" data-elfsight-app-lazy></div>
 
 
-<div align="center" style="padding-bottom:1em">
+<!-- <div align="center" style="padding-bottom:1em">
   <div style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
     <a href="https://www.instagram.com/p/DIRDmDjSlKc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">
       <img src="/assets/images/Screenshot_20250720_104031_Instagram.jpg" alt="DJ Neos review">
     </a>
   </div>
-</div>
+</div> -->
 
 <div align="center" style="padding-bottom:1em">
   <div style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:380px; min-width:315px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
