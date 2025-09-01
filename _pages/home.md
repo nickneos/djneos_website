@@ -46,11 +46,9 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 
 {% include feature_row %}
 
-<i class="fas fa-fw fa-award" aria-hidden="true" style="color: #d67f05; font-size: 1.5em"></i> DJ Neos has been mentioned by [**Vogue Ballroom**](https://vogueballroom.com.au/98-top-wedding-djs-and-bands-in-melbourne/) & [**Vines of the Yarra Valley**](https://vinesoftheyarravalley.com.au/wedding-djs-melbourne-victoria/) as one of the Top Wedding DJs!
-{: .notice--info}
-
-<div id="shapo-widget-f5a1dcc616403ef26fd6"></div>
-<script id="shapo-embed-js" type="text/javascript" src="https://cdn.shapo.io/js/embed.js" defer></script>
+<!-- Elfsight Google Reviews | Untitled Google Reviews -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-7a5fe23a-9c14-40cb-99e0-d4aebf61cff2" data-elfsight-app-lazy></div>
 
 <!-- <div align="center" style="padding-bottom:1em">
   <div style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
