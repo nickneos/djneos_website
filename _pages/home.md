@@ -64,6 +64,8 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
   </div>
 </div>
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dj.neos/video/7545055434743336212" data-video-id="7545055434743336212" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dj.neos" href="https://www.tiktok.com/@dj.neos?refer=embed">@dj.neos</a> This is the best reaction I&#39;ve ever received from a word play transition. These two guys were awesome! 🤩 Props to AdvantageDJs which is where I first saw this transition online 🫡 <a title="eventdj" target="_blank" href="https://www.tiktok.com/tag/eventdj?refer=embed">#eventdj</a> <a title="mobiledj" target="_blank" href="https://www.tiktok.com/tag/mobiledj?refer=embed">#mobiledj</a> <a title="openformatdj" target="_blank" href="https://www.tiktok.com/tag/openformatdj?refer=embed">#openformatdj</a> <a title="djtransition" target="_blank" href="https://www.tiktok.com/tag/djtransition?refer=embed">#djtransition</a> <a target="_blank" title="♬ original sound  - dj.neos" href="https://www.tiktok.com/music/original-sound-djneos-7545055539441535761?refer=embed">♬ original sound  - dj.neos</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 {% include video id="Usjz5LTm548" provider="youtube" %}
 {% include video id="5u4RYeTwlXA" provider="youtube" %}
 
