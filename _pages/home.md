@@ -24,7 +24,7 @@ feature_row:
     url: "/services/"
     btn_label: "Services"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature_5.jpg
+  - image_path: /assets/images/feature_9.jpg
     alt: "Mixes"
     url: "/mixes/"
     excerpt: "Here's a taste of my mixes for you to enjoy."
