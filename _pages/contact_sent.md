@@ -3,9 +3,9 @@ permalink: /contact/sent/
 sitemap: false
 title: "Get in Touch"
 header:
-  overlay_image: /assets/images/dj_neos_banner_2.jpg
+  overlay_image: /assets/images/dj_neos_banner.jpg
   overlay_filter: 0.3
-  overlay_padding: 12.5em 0 1em
+  overlay_padding: 16em 0 1em
 ---
 
 Thank you for contacting me.

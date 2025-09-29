@@ -3,9 +3,9 @@ title: DJ Neos
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/dj_neos_banner_2.jpg
-  overlay_filter: 0.6
-  overlay_padding: 4em 0 1em
+  overlay_image: /assets/images/dj_neos_banner.jpg
+  overlay_filter: 0.3
+  overlay_padding: 9em 0 1em
   actions:
     - label: "Services"
       url: "/services/"
