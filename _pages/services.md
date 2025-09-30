@@ -39,12 +39,10 @@ I specialise in creating a fun and energetic atmosphere for every wedding, from 
 
 1. Think I'm your guy? Request a quote by clicking the button below!
 2. Let's chat and ensure we're the right fit for each other. Feel free to ask as many questions as you want!
-3. Lock me in and secure your date by signing a service agreement and paying a $200 deposit.
-4. I will send a music questionnaire for you to complete. I usually send this out a few months before the wedding, when you have a clearer idea of the night's format from your venue, wedding planner, or other vendors.
-5. We'll then catch up (in person or via Zoom) to go through the music questionnaire, discuss your musical tastes, preferred vibe, and the run sheet for the night, allowing us to finalise all the finer details.
-6. I will do a quick check-in with you the week leading up to your wedding to confirm any last-minute changes to the run sheet or other arrangements.
-7. The remaining balance will be due 3 days before your wedding.
-8. It's the big day! Time to party!
+3. Lock me in and secure your date by signing some paperwork and paying a $200 deposit.
+4. I will get in touch around a month before your wedding to confirm music selection and overall vibe (via a questionairre), and arrange a catchup to go through the finer details.
+5. I will do a quick check-in with you a few days before your wedding to confirm any last-minute changes to the run sheet or other arrangements.
+6. It's the big day! Time to party!
 
 [Request a Quote](/contact/){: .btn .btn--inverse .btn--large}
 {: .text-center}
@@ -61,15 +59,14 @@ Ready to get the party started? I'll bring the perfect vibe to your next event!
 
 Since every party is unique, please reach out to me [here](/contact/) with the details, and I'll provide a custom quote back within 24 hours!
 
-
 {% capture notice-3 %}
 **What's included**
 
 - Arrival 1-2 hours prior to the event for setup, sound checks, and preparation.
 - A professional sound system adequately sized for your guest count and venue.
 - Live DJ mixing for the duration of your event.
-- Party lighting to enhance the atmosphere.
-- A wireless microphone if required.
+- Dynamic party lighting to enhance the atmosphere and set the mood.
+- Wireless microphone for announcements and speeches.
 - Prior consultation to ensure the music and vibe perfectly reflects your vision for the event.
 {% endcapture %}
 
@@ -81,10 +78,9 @@ Since every party is unique, please reach out to me [here](/contact/) with the d
 
 1. Think I'm your guy? Request a quote by clicking the button below!
 2. Let's chat and ensure we're the right fit for each other. Feel free to ask as many questions as you want!
-3. Lock me in and secure your date by signing a service agreement and paying a 20% deposit.
+3. Lock me in and secure your date by signing some paperwork and paying a $200 deposit.
 4. I'll communicate with you to confirm all your music requirements, the desired party vibe, and other finer details.
-5. The remaining balance will be due 3 days before the event.
-6. The day/night has arrived. Party time!
+5. The day/night has arrived. Party time!
 
 [Request a Quote](/contact/){: .btn .btn--inverse .btn--large}
 {: .text-center}
