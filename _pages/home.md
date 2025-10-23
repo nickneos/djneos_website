@@ -58,4 +58,4 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 </div>
 
 
-More of my mixes [here](/mixes/)! 🎧
+<!-- More of my mixes [here](/mixes/)! 🎧 -->
