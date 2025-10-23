@@ -5,5 +5,7 @@ main:
     url: /services/
   - title: Mixes
     url: /mixes/
+  - title: Videos
+    url: https://www.instagram.com/dj.neos/reels
   - title: "Contact"
     url: /contact/

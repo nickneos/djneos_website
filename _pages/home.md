@@ -46,9 +46,10 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 
 {% include feature_row %}
 
-<!-- Elfsight Google Reviews | Untitled Google Reviews -->
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-7a5fe23a-9c14-40cb-99e0-d4aebf61cff2" data-elfsight-app-lazy></div>
+
+<div id="shapo-widget-f5a1dcc616403ef26fd6"></div>
+<script id="shapo-embed-js" type="text/javascript" src="https://cdn.shapo.io/js/embed.js" defer></script>
+
 
 <div align="center" style="padding-bottom:1em">
   <div style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:380px; min-width:315px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
@@ -56,9 +57,5 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
   </div>
 </div>
 
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dj.neos/video/7545055434743336212" data-video-id="7545055434743336212" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dj.neos" href="https://www.tiktok.com/@dj.neos?refer=embed">@dj.neos</a> This is the best reaction I&#39;ve ever received from a word play transition. These two guys were awesome! 🤩 Props to AdvantageDJs which is where I first saw this transition online 🫡 <a title="eventdj" target="_blank" href="https://www.tiktok.com/tag/eventdj?refer=embed">#eventdj</a> <a title="mobiledj" target="_blank" href="https://www.tiktok.com/tag/mobiledj?refer=embed">#mobiledj</a> <a title="openformatdj" target="_blank" href="https://www.tiktok.com/tag/openformatdj?refer=embed">#openformatdj</a> <a title="djtransition" target="_blank" href="https://www.tiktok.com/tag/djtransition?refer=embed">#djtransition</a> <a target="_blank" title="♬ original sound  - dj.neos" href="https://www.tiktok.com/music/original-sound-djneos-7545055539441535761?refer=embed">♬ original sound  - dj.neos</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dj.neos/video/7538260607003397383" data-video-id="7538260607003397383" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dj.neos" href="https://www.tiktok.com/@dj.neos?refer=embed">@dj.neos</a> Super quick mix of that pure early 2000s hip-hop &#38; RnB heat! 🔥  Growing up in the golden era of hip-hop &#38; RnB, this has always been one of my favorite genres to play and party to 🎶  <a title="2000shiphop" target="_blank" href="https://www.tiktok.com/tag/2000shiphop?refer=embed">#2000sHipHop</a> <a title="rnbmix" target="_blank" href="https://www.tiktok.com/tag/rnbmix?refer=embed">#RnBMix</a> <a title="eventdj" target="_blank" href="https://www.tiktok.com/tag/eventdj?refer=embed">#EventDJ</a> <a title="throwbacktunes" target="_blank" href="https://www.tiktok.com/tag/throwbacktunes?refer=embed">#ThrowbackTunes</a> <a title="djmix" target="_blank" href="https://www.tiktok.com/tag/djmix?refer=embed">#DJMix</a> <a target="_blank" title="♬ original sound - dj.neos" href="https://www.tiktok.com/music/original-sound-7538260673009175312?refer=embed">♬ original sound - dj.neos</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 More of my mixes [here](/mixes/)! 🎧
