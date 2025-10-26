@@ -47,10 +47,6 @@ Ready to craft an epic party vibe? [Let's get in touch](/contact/) and make it h
 {% include feature_row %}
 
 
-<div id="shapo-widget-f5a1dcc616403ef26fd6"></div>
-<script id="shapo-embed-js" type="text/javascript" src="https://cdn.shapo.io/js/embed.js" defer></script>
-
-
 <div align="center" style="padding-bottom:1em">
   <div style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:380px; min-width:315px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
     <iframe width="1080" height="1920" src="https://www.youtube-nocookie.com/embed/X6YbujxoHNY" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" ></iframe>
