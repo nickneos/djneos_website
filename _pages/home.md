@@ -18,7 +18,7 @@ excerpt: >
 tagline: >
   Melbourne based DJ available to get your dancefloor ROCKING at your next wedding, birthday party or private event....without breaking the bank!
 feature_row:
-  - image_path: /assets/images/feature_8.jpg
+  - image_path: /assets/images/feature_12.jpg
     alt: "Services"
     excerpt: "Details and pricing for the services I offer"
     url: "/services/"
@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Here's a taste of my mixes for you to enjoy."
     btn_label: "My Mixes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feature_7.jpg
+  - image_path: /assets/images/feature_11.jpg
     alt: "contact"
     url: "/contact/"
     excerpt: "Ready to make your next event a hit?"
