@@ -8,11 +8,9 @@ header:
 page_css:
   - /assets/css/contact_form.css
 ---
-Shoot me a message via the form below or email [contact@djneos.com.au](mailto:contact@djneos.com.au)
+For booking enquiries use the form below or shoot an email to [contact@djneos.com.au](mailto:contact@djneos.com.au)
 
 Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+61468689700)
-
-*For booking enquiries, please include venue, date and number of guests in your message if you have these details.*
 
 <form
   class="fs-form"
@@ -25,20 +23,59 @@ Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+6146868970
   style="border-radius: 0.75rem"
 >
   <input type="hidden" name="subject" value="[DJ Neos] Contact Request (Ref: 3%{submissionId})">
+
   <div class="fs-field">
     <label class="fs-label" for="name">Your Name</label>
     <input class="fs-input" type="text" id="name" name="name" required />
   </div>
+  
   <div class="fs-field">
     <label class="fs-label" for="email">Your Email</label>
     <input class="fs-input" type="email" id="email" name="email" required />
   </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="eventType">Select Event Type</label>
+    <select class="fs-select" id="eventType" name="eventType" required>
+      <option value="" disabled selected>Please Select</option>
+      <option value="wedding">Wedding</option>
+      <option value="engagement">Engagement Party</option>
+      <option value="brithday">Birthday Party</option>
+      <option value="kids">Kids Party</option>
+      <option value="corporate">Corporate Function</option>
+      <option value="other">Other</option>
+    </select>
+  </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="location">Event Location</label>
+    <input class="fs-input" type="text" id="location" name="location" placeholder="Venue name and Suburb" required />
+  </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="eventDate">Event Date</label>
+    <input class="fs-input" type="date" id="eventDate" name="eventDate" required />
+  </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="startTime">Start and End Time</label>
+    <input class="fs-input" type="text" id="startTime" name="startTime" required />
+  </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="guests">Number of Guests</label>
+    <input class="fs-input" type="text" id="guests" name="guests" required />
+  </div>
+
   <div class="fs-field">
     <label class="fs-label" for="message">Message</label>
-    <textarea class="fs-textarea" id="message" name="message" rows="10" required></textarea>
+    <textarea class="fs-textarea" id="message" name="message" rows="10" placeholder="Tell us more about your event" required></textarea>
   </div>
+
   <input type="text" name="gotcha" style="display:none" />
+
   <div class="fs-button-group">
     <button class="fs-button" type="submit">Submit</button>
   </div>
+
 </form>
