@@ -20,7 +20,7 @@ tagline: >
 feature_row:
   - image_path: /assets/images/feature_12.jpg
     alt: "Services"
-    excerpt: "Details and pricing for the services I offer"
+    excerpt: "Details for the services I offer"
     url: "/services/"
     btn_label: "Services"
     btn_class: "btn--primary"
