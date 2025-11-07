@@ -8,7 +8,7 @@ header:
 page_css:
   - /assets/css/contact_form.css
 ---
-For booking enquiries use the form below or shoot an email to [contact@djneos.com.au](mailto:contact@djneos.com.au)
+For booking enquiries please use the form below or shoot an email to [contact@djneos.com.au](mailto:contact@djneos.com.au)
 
 Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+61468689700)
 
@@ -25,31 +25,31 @@ Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+6146868970
   <input type="hidden" name="subject" value="[DJ Neos] Contact Request (Ref: 3%{submissionId})">
 
   <div class="fs-field">
-    <label class="fs-label" for="name">Your Name</label>
-    <input class="fs-input" type="text" id="name" name="name" required />
+    <label class="fs-label" for="name">Name</label>
+    <input class="fs-input" type="text" id="name" name="name" placeholder="Your name" required />
   </div>
   
   <div class="fs-field">
-    <label class="fs-label" for="email">Your Email</label>
-    <input class="fs-input" type="email" id="email" name="email" required />
+    <label class="fs-label" for="email">Email</label>
+    <input class="fs-input" type="email" id="email" name="email" placeholder="Your email" required />
   </div>
 
   <div class="fs-field">
-    <label class="fs-label" for="eventType">Select Event Type</label>
+    <label class="fs-label" for="eventType">Event Type</label>
     <select class="fs-select" id="eventType" name="eventType" required>
-      <option value="" disabled selected>Please Select</option>
+      <option value="" disabled selected>Please Select...</option>
       <option value="wedding">Wedding</option>
       <option value="engagement">Engagement Party</option>
       <option value="brithday">Birthday Party</option>
       <option value="kids">Kids Party</option>
       <option value="corporate">Corporate Function</option>
-      <option value="other">Other</option>
+      <option value="other">Other (provide further details in message)</option>
     </select>
   </div>
 
   <div class="fs-field">
     <label class="fs-label" for="location">Event Location</label>
-    <input class="fs-input" type="text" id="location" name="location" placeholder="Venue name and Suburb" required />
+    <input class="fs-input" type="text" id="location" name="location" placeholder="Venue name / Suburb" required />
   </div>
 
   <div class="fs-field">
@@ -58,13 +58,18 @@ Prefer to chat on the phone old school? [0468&nbsp;689&nbsp;700](tel:+6146868970
   </div>
 
   <div class="fs-field">
-    <label class="fs-label" for="startTime">Start and End Time</label>
-    <input class="fs-input" type="text" id="startTime" name="startTime" required />
+    <label class="fs-label" for="startTime">Event Time</label>
+    <input class="fs-input" type="text" id="startTime" name="startTime" placeholder="Include start and end time of event" required />
+  </div>
+
+  <div class="fs-field">
+    <label class="fs-label" for="duration">Duration</label>
+    <input class="fs-input" type="text" id="duration" name="duration" placeholder="Number of hours DJ required for" required />
   </div>
 
   <div class="fs-field">
     <label class="fs-label" for="guests">Number of Guests</label>
-    <input class="fs-input" type="text" id="guests" name="guests" required />
+    <input class="fs-input" type="text" id="guests" name="guests" placeholder="Approximate number of guests" required />
   </div>
 
   <div class="fs-field">
